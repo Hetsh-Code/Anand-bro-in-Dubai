@@ -1,0 +1,6 @@
+{
+  "name": "Anand's Dubai Welcome Dashboard",
+  "description": "An interactive, liquid-glass digital welcome dashboard for Anand's new journey in Dubai, featuring memory lanes, survival guides, stateful interactive bucket lists, and premium glassmorphic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
